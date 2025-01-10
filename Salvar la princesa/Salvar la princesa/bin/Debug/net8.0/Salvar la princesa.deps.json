@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Salvar la princesa/1.0.0": {
+        "runtime": {
+          "Salvar la princesa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Salvar la princesa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

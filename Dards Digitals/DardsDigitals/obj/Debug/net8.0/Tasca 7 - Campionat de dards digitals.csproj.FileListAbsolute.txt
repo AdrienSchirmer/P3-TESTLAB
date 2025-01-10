@@ -1,0 +1,42 @@
+D:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\bin\Debug\net8.0\Tasca 7 - Campionat de dards digitals.exe
+D:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\bin\Debug\net8.0\Tasca 7 - Campionat de dards digitals.deps.json
+D:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\bin\Debug\net8.0\Tasca 7 - Campionat de dards digitals.runtimeconfig.json
+D:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\bin\Debug\net8.0\Tasca 7 - Campionat de dards digitals.dll
+D:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\bin\Debug\net8.0\Tasca 7 - Campionat de dards digitals.pdb
+D:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.AssemblyInfoInputs.cache
+D:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.AssemblyInfo.cs
+D:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.csproj.CoreCompileInputs.cache
+D:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.dll
+D:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\refint\Tasca 7 - Campionat de dards digitals.dll
+D:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.pdb
+D:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.genruntimeconfig.cache
+D:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\ref\Tasca 7 - Campionat de dards digitals.dll
+E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\bin\Debug\net8.0\Tasca 7 - Campionat de dards digitals.exe
+E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\bin\Debug\net8.0\Tasca 7 - Campionat de dards digitals.deps.json
+E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\bin\Debug\net8.0\Tasca 7 - Campionat de dards digitals.runtimeconfig.json
+E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\bin\Debug\net8.0\Tasca 7 - Campionat de dards digitals.dll
+E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\bin\Debug\net8.0\Tasca 7 - Campionat de dards digitals.pdb
+E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.GeneratedMSBuildEditorConfig.editorconfig
+E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.AssemblyInfoInputs.cache
+E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.AssemblyInfo.cs
+E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.csproj.CoreCompileInputs.cache
+E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.dll
+E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\refint\Tasca 7 - Campionat de dards digitals.dll
+E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.pdb
+E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.genruntimeconfig.cache
+E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\ref\Tasca 7 - Campionat de dards digitals.dll
+D:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\bin\Debug\net8.0\Tasca 7 - Campionat de dards digitals.exe
+D:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\bin\Debug\net8.0\Tasca 7 - Campionat de dards digitals.deps.json
+D:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\bin\Debug\net8.0\Tasca 7 - Campionat de dards digitals.runtimeconfig.json
+D:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\bin\Debug\net8.0\Tasca 7 - Campionat de dards digitals.dll
+D:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\bin\Debug\net8.0\Tasca 7 - Campionat de dards digitals.pdb
+D:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.AssemblyInfoInputs.cache
+D:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.AssemblyInfo.cs
+D:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.csproj.CoreCompileInputs.cache
+D:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.dll
+D:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\refint\Tasca 7 - Campionat de dards digitals.dll
+D:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.pdb
+D:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\Tasca 7 - Campionat de dards digitals.genruntimeconfig.cache
+D:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Tasca 7 - Campionat de dards digitals\Tasca 7 - Campionat de dards digitals\obj\Debug\net8.0\ref\Tasca 7 - Campionat de dards digitals.dll
