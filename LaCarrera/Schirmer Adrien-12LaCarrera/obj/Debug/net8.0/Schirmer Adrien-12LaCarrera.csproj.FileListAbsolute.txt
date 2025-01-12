@@ -40,3 +40,18 @@ E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Schirmer Adrien
 E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Schirmer Adrien-12LaCarrera\Schirmer Adrien-12LaCarrera\obj\Debug\net8.0\Schirmer Adrien-12LaCarrera.pdb
 E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Schirmer Adrien-12LaCarrera\Schirmer Adrien-12LaCarrera\obj\Debug\net8.0\Schirmer Adrien-12LaCarrera.genruntimeconfig.cache
 E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\Practica 3\Schirmer Adrien-12LaCarrera\Schirmer Adrien-12LaCarrera\obj\Debug\net8.0\ref\Schirmer Adrien-12LaCarrera.dll
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\LaCarrera\Schirmer Adrien-12LaCarrera\bin\Debug\net8.0\Schirmer Adrien-12LaCarrera.exe
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\LaCarrera\Schirmer Adrien-12LaCarrera\bin\Debug\net8.0\Schirmer Adrien-12LaCarrera.deps.json
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\LaCarrera\Schirmer Adrien-12LaCarrera\bin\Debug\net8.0\Schirmer Adrien-12LaCarrera.runtimeconfig.json
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\LaCarrera\Schirmer Adrien-12LaCarrera\bin\Debug\net8.0\Schirmer Adrien-12LaCarrera.dll
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\LaCarrera\Schirmer Adrien-12LaCarrera\bin\Debug\net8.0\Schirmer Adrien-12LaCarrera.pdb
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\LaCarrera\Schirmer Adrien-12LaCarrera\obj\Debug\net8.0\Schirmer Adrien-12LaCarrera.GeneratedMSBuildEditorConfig.editorconfig
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\LaCarrera\Schirmer Adrien-12LaCarrera\obj\Debug\net8.0\Schirmer Adrien-12LaCarrera.AssemblyInfoInputs.cache
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\LaCarrera\Schirmer Adrien-12LaCarrera\obj\Debug\net8.0\Schirmer Adrien-12LaCarrera.AssemblyInfo.cs
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\LaCarrera\Schirmer Adrien-12LaCarrera\obj\Debug\net8.0\Schirmer Adrien-12LaCarrera.csproj.CoreCompileInputs.cache
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\LaCarrera\Schirmer Adrien-12LaCarrera\obj\Debug\net8.0\Schirmer Adrien-12LaCarrera.sourcelink.json
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\LaCarrera\Schirmer Adrien-12LaCarrera\obj\Debug\net8.0\Schirmer Adrien-12LaCarrera.dll
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\LaCarrera\Schirmer Adrien-12LaCarrera\obj\Debug\net8.0\refint\Schirmer Adrien-12LaCarrera.dll
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\LaCarrera\Schirmer Adrien-12LaCarrera\obj\Debug\net8.0\Schirmer Adrien-12LaCarrera.pdb
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\LaCarrera\Schirmer Adrien-12LaCarrera\obj\Debug\net8.0\Schirmer Adrien-12LaCarrera.genruntimeconfig.cache
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\LaCarrera\Schirmer Adrien-12LaCarrera\obj\Debug\net8.0\ref\Schirmer Adrien-12LaCarrera.dll

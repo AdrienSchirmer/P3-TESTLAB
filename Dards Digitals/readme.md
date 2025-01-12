@@ -1,0 +1,1 @@
+Aquest test comprovara que el resultat de la diana donada les coordenada x+y son correctes, en aquest cas he posat les cordenades 4 i 4 en ambes llavors hauria de donar 5.

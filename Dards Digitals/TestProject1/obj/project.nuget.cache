@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s8ENb6Fj9Lw=",
+  "dgSpecHash": "ITdp7kbdo2E=",
   "success": true,
-  "projectFilePath": "E:\\DAW\\Silvia Llado MODULS\\Entorns de desenvolupament\\Practica 3\\Tasca 7 - Campionat de dards digitals\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "E:\\DAW\\Silvia Llado MODULS\\Entorns de desenvolupament\\TestLabs\\Dards Digitals\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DardsDigitals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61ce64809058b8c3f214609bae21a0d3e88b76b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("DardsDigitals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DardsDigitals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

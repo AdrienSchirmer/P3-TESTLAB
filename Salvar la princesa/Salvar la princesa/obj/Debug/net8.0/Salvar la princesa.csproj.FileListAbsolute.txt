@@ -40,3 +40,11 @@ E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Schirmer_Adrien-007-Salvar la prin
 E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Schirmer_Adrien-007-Salvar la princesa\Salvar la princesa\obj\Debug\net8.0\Salvar la princesa.pdb
 E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Schirmer_Adrien-007-Salvar la princesa\Salvar la princesa\obj\Debug\net8.0\Salvar la princesa.genruntimeconfig.cache
 E:\DAW\Xavier Sala MODULS\PROGRAMACIÓ\1 tema\Schirmer_Adrien-007-Salvar la princesa\Salvar la princesa\obj\Debug\net8.0\ref\Salvar la princesa.dll
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\Salvar la princesa\Salvar la princesa\obj\Debug\net8.0\Salvar la princesa.GeneratedMSBuildEditorConfig.editorconfig
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\Salvar la princesa\Salvar la princesa\obj\Debug\net8.0\Salvar la princesa.AssemblyInfoInputs.cache
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\Salvar la princesa\Salvar la princesa\obj\Debug\net8.0\Salvar la princesa.AssemblyInfo.cs
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\Salvar la princesa\Salvar la princesa\obj\Debug\net8.0\Salvar la princesa.csproj.CoreCompileInputs.cache
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\Salvar la princesa\Salvar la princesa\obj\Debug\net8.0\Salvar la princesa.sourcelink.json
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\Salvar la princesa\Salvar la princesa\obj\Debug\net8.0\Salvar la princesa.dll
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\Salvar la princesa\Salvar la princesa\obj\Debug\net8.0\refint\Salvar la princesa.dll
+E:\DAW\Silvia Llado MODULS\Entorns de desenvolupament\TestLabs\Salvar la princesa\Salvar la princesa\obj\Debug\net8.0\Salvar la princesa.pdb

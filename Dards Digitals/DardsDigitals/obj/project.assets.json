@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DAW\\Silvia Llado MODULS\\Entorns de desenvolupament\\Practica 3\\Tasca 7 - Campionat de dards digitals\\DardsDigitals\\DardsDigitals.csproj",
+      "projectUniqueName": "E:\\DAW\\Silvia Llado MODULS\\Entorns de desenvolupament\\TestLabs\\Dards Digitals\\DardsDigitals\\DardsDigitals.csproj",
       "projectName": "DardsDigitals",
-      "projectPath": "E:\\DAW\\Silvia Llado MODULS\\Entorns de desenvolupament\\Practica 3\\Tasca 7 - Campionat de dards digitals\\DardsDigitals\\DardsDigitals.csproj",
+      "projectPath": "E:\\DAW\\Silvia Llado MODULS\\Entorns de desenvolupament\\TestLabs\\Dards Digitals\\DardsDigitals\\DardsDigitals.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\DAW\\Silvia Llado MODULS\\Entorns de desenvolupament\\Practica 3\\Tasca 7 - Campionat de dards digitals\\DardsDigitals\\obj\\",
+      "outputPath": "E:\\DAW\\Silvia Llado MODULS\\Entorns de desenvolupament\\TestLabs\\Dards Digitals\\DardsDigitals\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

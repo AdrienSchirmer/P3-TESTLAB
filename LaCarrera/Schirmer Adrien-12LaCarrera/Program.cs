@@ -4,7 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            var Carrera = new Carrera();
+            var carrera = new Carrera();
+            carrera.calcul();
         }
     }
 }
