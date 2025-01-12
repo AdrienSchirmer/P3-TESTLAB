@@ -1,0 +1,1 @@
+Aquest test comprova que les funcions ComptarSubministres, ComptarCavallers, ComptarPagesos i ComptarSoldats gestionen correctament les armes proporcionades i calculen els recursos correctament, retornant els valors esperats per a cavallers, pagesos i soldats.
